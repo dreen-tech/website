@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fr on Dreen Technologies</title>
+    <link>http://localhost:1313/fr/</link>
+    <description>Recent content in Fr on Dreen Technologies</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/fr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/about/</guid>
+      <description>&lt;p&gt;Welcome to Dreen Technologies, your trusted partner for all your computer component needs. Whether you are a tech enthusiast, a business owner, or a reseller, we are committed to delivering top-quality products and services tailored to meet your requirements.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;who-we-are&#34;&gt;WHO WE ARE&lt;/h3&gt;&#xA;&lt;p&gt;Dreen Technologies is a leading supplier in the wholesale, retail, and drop-shipping of premium computer components. We source high-quality surplus, excess, and certified refurbished computer components including memory modules, graphics cards, SSDs, HDDs, and more, offering them at unbeatable prices compared to traditional retailers. We mainly supply small and medium-sized companies, but also large companies from many different industries and particularly ambitious private customers. With years of experience in the industry, we take pride in offering a diverse range of products from the most reputable brands, ensuring reliability and performance.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
