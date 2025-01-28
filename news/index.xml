@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Dreen Technologies</title>
+    <link>http://localhost:1313/news/</link>
+    <description>Recent content in News on Dreen Technologies</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2024 13:47:08 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Refurbished Computer Parts for Gamers: Can They Handle the Heat?</title>
+      <link>http://localhost:1313/news/2024/12/09/for-gamers/</link>
+      <pubDate>Mon, 09 Dec 2024 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/news/2024/12/09/for-gamers/</guid>
+      <description>Gaming has evolved into a performance-intensive activity, demanding top-notch hardware to deliver smooth frame rates, realistic graphics, and responsive gameplay. For gamers on a budget, the idea of using refurbished computer parts might seem appealing, but can these components handle the high demands of modern gaming?</description>
+    </item>
+    <item>
+      <title>The Benefits of Choosing Refurbished Computer Parts</title>
+      <link>http://localhost:1313/news/2024/10/22/choosing-parts/</link>
+      <pubDate>Tue, 22 Oct 2024 21:49:20 +0200</pubDate>
+      <guid>http://localhost:1313/news/2024/10/22/choosing-parts/</guid>
+      <description>In a world driven by technological advancements, staying up-to-date with computer hardware can quickly become a costly endeavor. However, refurbished computer parts offer a compelling alternative that combines affordability, reliability, and sustainability. Whether you&amp;rsquo;re upgrading your system or replacing a malfunctioning component, choosing refurbished parts can be a smart decision.</description>
+    </item>
+    <item>
+      <title>CPU vs GPU: Knowing the Differences</title>
+      <link>http://localhost:1313/news/2024/06/24/cpu-vs-gpu/</link>
+      <pubDate>Mon, 24 Jun 2024 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/news/2024/06/24/cpu-vs-gpu/</guid>
+      <description>When it comes to computer hardware, two critical components often dominate the conversation: the Central Processing Unit (CPU) and the Graphics Processing Unit (GPU). While both play crucial roles in a computer&amp;rsquo;s performance, they are designed for very different tasks.</description>
+    </item>
+    <item>
+      <title>Top 5 Computer Components for Budget-Friendly Upgrades </title>
+      <link>http://localhost:1313/news/2024/03/17/top-5-refurbished/</link>
+      <pubDate>Sun, 17 Mar 2024 13:47:08 +0200</pubDate>
+      <guid>http://localhost:1313/news/2024/03/17/top-5-refurbished/</guid>
+      <description>Upgrading your computer doesn’t have to mean spending a fortune. Refurbished components provide an affordable and reliable way to breathe new life into your system. From boosting speed to enhancing graphics performance, refurbished parts deliver value without compromising quality.</description>
+    </item>
+    <item>
+      <title>How do you choose between seemingly similar parts?</title>
+      <link>http://localhost:1313/news/2023/11/01/similar-parts/</link>
+      <pubDate>Wed, 01 Nov 2023 21:29:20 +0200</pubDate>
+      <guid>http://localhost:1313/news/2023/11/01/similar-parts/</guid>
+      <description>The decision to use one component over another in your product or system design can often be tedious, especially when many parts from different suppliers appear to have the same specifications. While flipping a coin can seem like the easiest way to go, there are better strategies available to assist in your evaluation process.</description>
+    </item>
+    <item>
+      <title>Refurbished vs New: Which is Right for You?</title>
+      <link>http://localhost:1313/news/2023/08/15/refurbished-vs-new/</link>
+      <pubDate>Tue, 15 Aug 2023 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/news/2023/08/15/refurbished-vs-new/</guid>
+      <description>When it’s time to upgrade or replace computer components, you’re often faced with a key decision: should you go for refurbished parts or invest in brand-new ones? Both options come with distinct benefits and considerations. Your choice will depend on your budget, performance needs, and even your environmental values.</description>
+    </item>
+  </channel>
+</rss>
