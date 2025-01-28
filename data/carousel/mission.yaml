@@ -1,0 +1,10 @@
+weight: 3
+title: "Why Choose Us?"
+description: >
+  <ul class="list-style-none">
+     <li>We only offer the highest quality.</li>
+     <li>Our prices are easy on the budget.</li>
+     <li>Fast and reliable shipping.</li>
+     <li>Personalized customer support.</li>
+   </ul>
+image: "img/carousel/mission.png"

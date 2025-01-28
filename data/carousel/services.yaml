@@ -1,0 +1,9 @@
+weight: 2
+title: "What we offer"
+description: >
+  <ul class="list-style-none">
+    <li>Our services include:</li>
+    <p>Wholesale. Retail. Drop-shipping.</>
+
+  </ul>
+image: "img/carousel/home.png"
