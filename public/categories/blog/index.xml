@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Dreen Technologies</title>
+    <link>http://localhost:1313/categories/blog/</link>
+    <description>Recent content in Blog on Dreen Technologies</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPU vs GPU: Knowing the Differences</title>
+      <link>http://localhost:1313/news/2015/06/24/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      <guid>http://localhost:1313/news/2015/06/24/creating-a-new-theme/</guid>
+      <description>&lt;p&gt;When it comes to computer hardware, two critical components often dominate the conversation: the Central Processing Unit (CPU) and the Graphics Processing Unit (GPU). While both play crucial roles in a computer&amp;rsquo;s performance, they are designed for very different tasks. Let’s break down the differences and why they matter.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-a-cpu&#34;&gt;&lt;strong&gt;What is a CPU?&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The CPU, often referred to as the &amp;ldquo;brain&amp;rdquo; of the computer, handles general-purpose computing tasks. It executes instructions from software programs, manages data, and ensures smooth operation of the system. CPUs excel at single-threaded operations, where tasks are processed sequentially.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

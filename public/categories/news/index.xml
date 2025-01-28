@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Dreen Technologies</title>
+    <link>http://localhost:1313/categories/news/</link>
+    <description>Recent content in News on Dreen Technologies</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How do you choose between seemingly similar parts?</title>
+      <link>http://localhost:1313/news/2021/08/01/categories-post/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>http://localhost:1313/news/2021/08/01/categories-post/</guid>
+      <description>&lt;h3 id=&#34;a-lot-of-components-do-the-same-thing-how-do-you-choose-the-best-one&#34;&gt;&lt;strong&gt;A lot of components do the same thing. How do you choose the best one?&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The decision to use one component over another in your product or system design can often be tedious, especially when many parts from different suppliers appear to have the same specifications. While flipping a coin can seem like the easiest way to go, there are better strategies available to assist in your evaluation process.&lt;/p&gt;&#xA;&lt;p&gt;You could develop a simple decision table to help you choose one part over another. For example, the most rudimentary one might include Features, Price, Quality, and Availability as the component qualifiers. Then, making an educated assessment on each, you assign a score of 1 to 5 to each part for each of the 4 qualifiers. Finally, add up the scores and go with the winner.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
