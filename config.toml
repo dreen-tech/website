@@ -222,16 +222,8 @@ pluralizelisttitles = false
 
 # Top bar social links menu
 
-
 [[menu.topbar]]
     weight = 1
-    name = "Whatsapp"
-    url = "https://wa.me/<number>"
-    pre = "<i class='fab fa-2x fa-whatsapp'></i>"
-
-
-[[menu.topbar]]
-    weight = 2
     name = "Email"
     url = "mailto:support@dreentech.co.uk"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
