@@ -231,9 +231,9 @@ pluralizelisttitles = false
 [params]
     viewMorePostLink = "/blog/"
     author = "DreenTech"
-    defaultKeywords = ["dreentech", "hugo", "go"]
+    defaultKeywords = ["dreentech"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    defaultDescription = "Empowering Technology, Supporting You"
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
